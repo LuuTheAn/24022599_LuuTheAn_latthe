@@ -187,7 +187,7 @@ int main(int argc, char* argv[]) {
         SDL_RenderPresent(renderer);
     }
 
-    // Cleanup
+    // clean
     for (auto& tex : cardTextures) SDL_DestroyTexture(tex);
     SDL_DestroyTexture(backTexture);
     SDL_DestroyRenderer(renderer);
