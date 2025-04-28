@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1745835392 source:c:\baitaplonltnc\latthe\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<ctime>
+	<random>
+
